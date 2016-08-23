@@ -1,0 +1,14 @@
+{
+  "name": "js-es6",
+  "version": "1.0.0",
+  "description": "learning es6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagarkaira1992@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2"
+  }
+}
